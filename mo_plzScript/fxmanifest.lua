@@ -9,4 +9,7 @@ client_scripts {
 	"config.lua"
 }
 
-server_script "plz-s.lua"
+server_scripts { 
+	"plz-s.lua",
+	"config.lua"
+}
