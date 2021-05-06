@@ -8,3 +8,5 @@ client_scripts {
 	"plz-c.lua",
 	"config.lua"
 }
+
+server_script "plz-s.lua"
