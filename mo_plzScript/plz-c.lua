@@ -33,10 +33,11 @@ function setWaypoint(plz)
 	end
 	
 end
-
-TriggerEvent('chat:addSuggestion', '/plz', 'Markierung bei einer Postleitzahl setzen', {
-    { name="Postleitzahl", help="Postleitzahl des Zielortes (z.B. 001)" }
-})
+Citizen.CreateThread(function()	
+	TriggerEvent('chat:addSuggestion', '/plz', 'Markierung bei einer Postleitzahl setzen', {
+	    { name="Postleitzahl", help="Postleitzahl des Zielortes (z.B. 001)" }
+	})
+)
 
 --[[--------------------------]]--
 --[[  Created by Mo1810#4230  ]]--
