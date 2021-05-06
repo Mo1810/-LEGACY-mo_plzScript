@@ -38,7 +38,7 @@ Citizen.CreateThread(function()
 	TriggerEvent('chat:addSuggestion', '/plz', 'Markierung bei einer Postleitzahl setzen', {
 	    { name="Postleitzahl", help="Postleitzahl des Zielortes (z.B. 001)" }
 	})
-)
+end)
 
 --[[--------------------------]]--
 --[[  Created by Mo1810#4230  ]]--
