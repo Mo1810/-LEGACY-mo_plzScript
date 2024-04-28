@@ -1,6 +1,6 @@
 # mo_plzScript
 
-Postleitzahlen-Script für FiveM [lua;esx]
+Postleitzahlen Script für FiveM [lua;esx]
 
 Für Hilfe bitte ein `Issue` eröffnen oder auf meinem Discord nach Hilfe fragen. Link dazu ist in meinem Profil.
 
@@ -9,5 +9,5 @@ Für Hilfe bitte ein `Issue` eröffnen oder auf meinem Discord nach Hilfe fragen
 # INSTALL
 - Grüner Button `Code` klicken 
 - "Download ZIP"
-- ZIP öffnen, die Ordner öffnen, bis `README.md` zu sehen ist, dann `mo_parkingMeter` in deine _resources_ extrahieren
-- Schreibe `ensure mo_parkingMeter` in deine `server.cfg`
+- ZIP öffnen, die Ordner öffnen, bis `README.md` zu sehen ist, dann `mo_plzScript` in deine _resources_ extrahieren
+- Schreibe `ensure mo_plzScript` in deine `server.cfg`
