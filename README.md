@@ -6,6 +6,12 @@ Für Hilfe bitte ein `Issue` eröffnen oder auf meinem Discord nach Hilfe fragen
 
 ### GER translation
 
+# WICHTIG
+
+BRAUCHT DIESE KARTE, DASS DIE PLZ RICHTIG ANGEZEIGT WERDEN (AUSSER DU ÄNDERST DIE LISTE): 
+- https://github.com/Oulsen/oulsen_satmap (nicht meine; nur der 2. "oulsen_satmap" Ordner im 1. Ordner wird benötigt)
+- https://github.com/ArduousDev/MiniMap
+  
 # INSTALL
 - Grüner Button `Code` klicken 
 - "Download ZIP"
