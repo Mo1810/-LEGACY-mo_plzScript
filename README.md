@@ -8,7 +8,7 @@ Für Hilfe bitte ein `Issue` eröffnen oder auf meinem Discord nach Hilfe fragen
 
 # WICHTIG
 
-BRAUCHT DIESE KARTE, DASS DIE PLZ RICHTIG ANGEZEIGT WERDEN [(AUSSER DU ÄNDERST DIE LISTE)](https://github.com/Mo1810/-LEGACY-mo_plzScript/blob/main/README.md#ANDERE%20POSTLEITZAHLEN): 
+BRAUCHT DIESE KARTE, DASS DIE PLZ RICHTIG ANGEZEIGT WERDEN [(AUSSER DU ÄNDERST DIE LISTE)](https://github.com/Mo1810/-LEGACY-mo_plzScript?tab=readme-ov-file#andere-postleitzahlen): 
 - https://github.com/Oulsen/oulsen_satmap (nicht meine; nur der 2. "oulsen_satmap" Ordner im 1. Ordner wird benötigt)
 - https://github.com/ArduousDev/MiniMap
   
